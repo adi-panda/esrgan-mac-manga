@@ -1,5 +1,7 @@
 # Fork of [BlueAmulet's fork](https://github.com/BlueAmulet/ESRGAN) of [ESRGAN by Xinntao](https://github.com/xinntao/ESRGAN)
 
+# -> MANGA MODEL -> https://drive.google.com/file/d/1Z6SLT0iA3fIPe2NKdVkJQ_8l82bQNRAj/view?usp=sharing
+
 ## NOTE: This repo is no longer being actively maintained. I highly recommend using [chaiNNer](https://github.com/chaiNNer-org/chaiNNer) instead, as it is still actively maintained and supports a lot more than this repo does.
 
 This fork ports features over from my ESRGAN-Bot repository and adds a few more. It natively allows:
