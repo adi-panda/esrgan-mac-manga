@@ -1,0 +1,2 @@
+Model: "models/4x_eula_digimanga_bw_v2_nc1_307k.pth"
+Upscaling                                            0% -:--:--
